@@ -1,0 +1,2 @@
+docker-custom-spark/conf/spark-access-sa.json
+docker-custom-operator/conf/spark-access-sa.json
